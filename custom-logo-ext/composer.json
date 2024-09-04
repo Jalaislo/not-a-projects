@@ -1,0 +1,16 @@
+{
+  "config": {
+    "classmap-authoritative": true
+  },
+  "autoload": {
+    "psr-4": {
+      "TecForce\\iTop\\Extension\\": "src"
+    }
+  },
+  "name": "tecforce/custom-logo-ext",
+  "type": "itop-extension",
+  "description": "Extention that chages logo",
+  "require": {
+    "composer-runtime-api": "^2.0"
+  }
+}
