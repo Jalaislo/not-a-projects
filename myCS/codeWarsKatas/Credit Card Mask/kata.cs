@@ -6,15 +6,16 @@ public static class Kata
   {
     if (cc.Length <= 4)
       return cc;
-    else{
+
       char[] char_cc = cc.ToCharArray();
       Array.Reverse(char_cc);
+
       for (int i = 0; i < cc.Length; ++i){
         if (i >=4)
         char_cc[i] = '#';
       }
+
       Array.Reverse(char_cc);
       return new string (char_cc);
-    }
   }
 }
