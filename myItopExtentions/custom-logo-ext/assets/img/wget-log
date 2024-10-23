@@ -1,11 +1,0 @@
---2024-08-22 09:20:46--  https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fpngimg.com%2Fuploads%2Fwindows_logos%2Fwindows_logos_PNG28.png
-Resolving external-content.duckduckgo.com (external-content.duckduckgo.com)... 20.204.245.84
-Connecting to external-content.duckduckgo.com (external-content.duckduckgo.com)|20.204.245.84|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: unspecified [image/png]
-Saving to: ‘index.html?u=http:%2F%2Fpngimg.com%2Fuploads%2Fwindows_logos%2Fwindows_logos_PNG28.png’
-
-               index.html?u=h     [<=>                                               ]       0  --.-KB/s                             index.html?u=ht     [ <=>                                              ]  98.97K   297KB/s               index.html?u=http:%2F%2Fpngim     [  <=>                                             ] 249.74K   494KB/s    in 0.5s    
-
-2024-08-22 09:20:49 (494 KB/s) - ‘index.html?u=http:%2F%2Fpngimg.com%2Fuploads%2Fwindows_logos%2Fwindows_logos_PNG28.png’ saved [255731]
-
