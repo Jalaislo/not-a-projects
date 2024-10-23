@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<itop_design xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0">
-  <branding>
-    <main_logo_compact _delta="define">custom-logo-ext/assets/img/custom_compact_logo.png</main_logo_compact>
-    <main_logo _delta="define">custom-logo-ext/assets/img/custom_main_logo.png</main_logo>
-  </branding>
-</itop_design>
